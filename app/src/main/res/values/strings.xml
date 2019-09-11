@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Places Of Interest</string>
+    <string name="place_name"></string>
+    <string name="image_place">Image of Place</string>
+</resources>
